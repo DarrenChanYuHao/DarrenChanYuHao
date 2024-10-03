@@ -1,4 +1,4 @@
-## <p align="center"><img src="./Namesvg.svg" width="500" alt="Scaled SVG Image"></p>
+## <p align="center"><img src="./Readme Assets/NameAndDescription.svg" width="500" alt="Scaled SVG Image"></p>
 
 
 
