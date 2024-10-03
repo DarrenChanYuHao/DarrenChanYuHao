@@ -1,4 +1,5 @@
-## <p align="center">![My SVG Image](./Namesvg.svg)</p>
+## <p align="center"><img src="./Namesvg.svg" width="500" alt="Scaled SVG Image"></p>
+
 
 
 <!--
