@@ -1,5 +1,5 @@
   <h1>Darren Chan Yu Hao</h1>
-  <p>Hello 👋 I am Darren, a final year undergraduate student at the <strong>Singapore University of Technology and Design (SUTD)</strong> pursuing a degree in <strong>Computer Science and Design</strong>.</p>
+  <p>Hello 👋 I am Darren, I recently graduated from the <strong>Singapore University of Technology and Design (SUTD)</strong> with a degree in <strong>Computer Science and Design</strong>.</p>
   <hr />
   <h2>Experience</h2>
   <h3>Application Development & Integration Internship</h3>
