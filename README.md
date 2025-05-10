@@ -1,4 +1,3 @@
-<div align="center">
   <h1>Darren Chan Yu Hao</h1>
   <p>Hello 👋 I am Darren, a final year undergraduate student at the <strong>Singapore University of Technology and Design (SUTD)</strong> pursuing a degree in <strong>Computer Science and Design</strong>.</p>
   <hr />
@@ -13,6 +12,7 @@
   <em>Sep–Dec 2023</em></p>
   <p>I worked on research utilizing <strong>mmWave technology</strong> and developed <strong>Digital Signal Processing</strong> algorithms, including <strong>Fast Fourier Transform</strong>, in <strong>Python</strong>.<br />
   I also created a prototype to showcase the product's potential, working across both <strong>Linux</strong> and <strong>Windows</strong> platforms.</p>
+<div align="center">
   <p>
     <img src="https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python&logoColor=000000" alt="Python Badge" />
     <img src="https://img.shields.io/badge/-C%23-FFFFFF?style=flat&logo=sharp&logoColor=000000" alt="C# Badge" />
