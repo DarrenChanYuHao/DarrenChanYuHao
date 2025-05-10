@@ -1,6 +1,7 @@
 <h1 align="center">Darren Chan Yu Hao</h1>
 <div align='left'>
   <p>Hello 👋 I am Darren, I recently graduated from the <strong>Singapore University of Technology and Design (SUTD)</strong> with a degree in <strong>Computer Science and Design</strong>.</p>
+  <p>Find out more about me on my personal website here: www.darrenchanyuhao.com</p>
   <h2>Experience</h2>
   <h3>Application Development & Integration Internship</h3>
   <p><strong>FUJIFILM Business Innovation Singapore (FBSG)</strong><br />
