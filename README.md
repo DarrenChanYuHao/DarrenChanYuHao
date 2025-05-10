@@ -7,7 +7,7 @@
   </ul>
 </div>
 <div align='left'>
-  <p>Hello 👋 I am Darren, I recently graduated from the <strong>Singapore University of Technology and Design (SUTD)</strong> with a degree in <strong>Computer Science and Design</strong>.</p>
+  <h3>Hello 👋 I am Darren, I recently graduated from the <strong>Singapore University of Technology and Design (SUTD)</strong> with a degree in <strong>Computer Science and Design</strong>.</h3>
 </div>
   
 <div align="center">
