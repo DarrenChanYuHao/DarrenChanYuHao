@@ -1,17 +1,31 @@
-  <h1>Darren Chan Yu Hao</h1>
+<h1 align="center">Darren Chan Yu Hao</h1>
+<div align='left'>
   <p>Hello 👋 I am Darren, I recently graduated from the <strong>Singapore University of Technology and Design (SUTD)</strong> with a degree in <strong>Computer Science and Design</strong>.</p>
-  <hr />
   <h2>Experience</h2>
   <h3>Application Development & Integration Internship</h3>
   <p><strong>FUJIFILM Business Innovation Singapore (FBSG)</strong><br />
-  <em>May–Sep 2024</em></p>
-  <p>I helped build a subscription management frontend in <strong>C# ASP.NET MVC</strong>, developed several microservice APIs with <strong>Entity Framework Core</strong>, and led automated testing with <strong>Selenium</strong> and <strong>xUnit</strong>.<br />
-  I also helped implement audit trailing and resolved several critical support cases.</p>
+  <em>May – Sep 2024</em></p>
+  <ul>
+    <li>
+      I helped build a subscription management frontend in <strong>C# ASP.NET MVC</strong>, developed several microservice APIs with <strong>Entity Framework Core</strong>, and led automated testing with <strong>Selenium</strong> and <strong>xUnit</strong>.
+    </li>
+    <li>
+        I also helped implement audit trailing and resolved several critical support cases.
+    </li>
+  </ul>
   <h3>Wireless Research Internship</h3>
   <p><strong>Panasonic Research and Development Center Singapore (PRDCSG)</strong><br />
-  <em>Sep–Dec 2023</em></p>
-  <p>I worked on research utilizing <strong>mmWave technology</strong> and developed <strong>Digital Signal Processing</strong> algorithms, including <strong>Fast Fourier Transform</strong>, in <strong>Python</strong>.<br />
-  I also created a prototype to showcase the product's potential, working across both <strong>Linux</strong> and <strong>Windows</strong> platforms.</p>
+  <em>Sep – Dec 2023</em></p>
+  <ul>
+    <li>
+      I worked on research utilizing <strong>mmWave technology</strong> and developed <strong>Digital Signal Processing</strong> algorithms, including <strong>Fast Fourier Transform</strong>, in <strong>Python</strong>.<br />
+    </li>
+    <li>
+      I also created a prototype to showcase the product's potential, working across both <strong>Linux</strong> and <strong>Windows</strong> platforms.
+    </li>
+  </ul>
+</div>
+  
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python&logoColor=000000" alt="Python Badge" />
